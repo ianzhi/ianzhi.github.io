@@ -15,4 +15,4 @@ Syntax highlighted code block
 ```
 
 # Related Links
-[ian有话说](https://www.iian.xyz)
+[ian有话说](https://www.dnote.cn)
